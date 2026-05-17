@@ -1,0 +1,4 @@
+music/.cache_covers/*.png
+music/*.mp3
+__pycache__/
+.DS_Store
